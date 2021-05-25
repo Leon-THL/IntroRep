@@ -1,6 +1,6 @@
 # IntroRep
 
 
-#Heading
+# Heading
 
 ## Sub Heading
